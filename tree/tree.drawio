@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-05T14:12:01.131Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="-OFRI9ii8nc7_UoEJuz5" version="15.0.5" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2021-09-05T14:24:41.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="G64YbeXTUDsXuFdGO2S6" version="15.0.5" type="github" pages="18">
   <diagram id="eSW5-LiPnJgQetWfRYt6" name="tree">
     <mxGraphModel dx="946" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2301,10 +2301,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of link1" id="C82d4W-l4gjf62Zi7E0o">
-    <mxGraphModel dx="5511" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#B0E3E6" math="0" shadow="0">
+    <mxGraphModel dx="5196" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#B0E3E6" math="0" shadow="0">
       <root>
         <mxCell id="jpkLNeraunDp6YIxYs8Z-0" />
         <mxCell id="jpkLNeraunDp6YIxYs8Z-1" parent="jpkLNeraunDp6YIxYs8Z-0" />
+        <mxCell id="enA_Tg5hQ_tuUy4s-Ggd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jpkLNeraunDp6YIxYs8Z-1" source="jpkLNeraunDp6YIxYs8Z-2" target="enA_Tg5hQ_tuUy4s-Ggd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jpkLNeraunDp6YIxYs8Z-2" value="a" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=18;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#F08E81;" vertex="1" parent="jpkLNeraunDp6YIxYs8Z-1">
           <mxGeometry x="-3801" y="-400" width="80" height="60" as="geometry" />
         </mxCell>
@@ -2334,7 +2337,7 @@
         <mxCell id="jpkLNeraunDp6YIxYs8Z-10" value="next" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=18;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#F08E81;" vertex="1" parent="jpkLNeraunDp6YIxYs8Z-1">
           <mxGeometry x="-3240" y="-400" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jpkLNeraunDp6YIxYs8Z-12" value="d" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=18;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#F08E81;" vertex="1" parent="jpkLNeraunDp6YIxYs8Z-1">
+        <mxCell id="jpkLNeraunDp6YIxYs8Z-12" value="Null" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=18;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#F08E81;" vertex="1" parent="jpkLNeraunDp6YIxYs8Z-1">
           <mxGeometry x="-3080" y="-400" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jpkLNeraunDp6YIxYs8Z-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jpkLNeraunDp6YIxYs8Z-1" source="jpkLNeraunDp6YIxYs8Z-13" target="jpkLNeraunDp6YIxYs8Z-14">
@@ -2353,13 +2356,13 @@
           <mxGeometry x="-3821" y="-540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="enA_Tg5hQ_tuUy4s-Ggd-3" value="&lt;span style=&quot;font-size: 18px&quot;&gt;队尾&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="jpkLNeraunDp6YIxYs8Z-1">
-          <mxGeometry x="-3100" y="-540" width="120" height="80" as="geometry" />
+          <mxGeometry x="-3340" y="-560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="enA_Tg5hQ_tuUy4s-Ggd-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;head&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="jpkLNeraunDp6YIxYs8Z-1">
           <mxGeometry x="-3821" y="-260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="enA_Tg5hQ_tuUy4s-Ggd-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;end&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="jpkLNeraunDp6YIxYs8Z-1">
-          <mxGeometry x="-3100" y="-260" width="120" height="80" as="geometry" />
+          <mxGeometry x="-3340" y="-260" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

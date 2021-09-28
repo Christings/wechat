@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T06:45:48.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="qVh39FXaxqlJLoBjnnEQ" version="15.3.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-09-28T06:46:17.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="4c7dtZEpikBwts99t5gW" version="15.3.0" type="github" pages="11">
   <diagram id="Y9zuS4-PnhuHLRxPQKxk" name="queue">
     <mxGraphModel dx="916" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#B0E3E6" math="0" shadow="0">
       <root>
@@ -897,7 +897,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JIp6ZwG75BnfiX0jVPQi" name="QueueAndStack">
-    <mxGraphModel dx="916" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="916" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="3QeoKXvbbgXbi6sxxl4h-0" />
         <mxCell id="3QeoKXvbbgXbi6sxxl4h-1" parent="3QeoKXvbbgXbi6sxxl4h-0" />
@@ -918,6 +918,9 @@
         </mxCell>
         <mxCell id="FXNy9eQVXrp0oF_45qIP-7" value="运算符栈" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="3QeoKXvbbgXbi6sxxl4h-1">
           <mxGeometry x="260" y="310" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXNy9eQVXrp0oF_45qIP-8" value="表达式：10+5*20-30" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="3QeoKXvbbgXbi6sxxl4h-1">
+          <mxGeometry x="300" y="-110" width="250" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T07:56:07.784Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="S90p_nlaUeuuSH2-kP31" version="15.3.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-11-13T07:56:18.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GjnxrRn0_LQISWZnWcIQ" version="15.3.7" type="github" pages="14">
   <diagram id="Y9zuS4-PnhuHLRxPQKxk" name="queue">
     <mxGraphModel dx="800" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#B0E3E6" math="0" shadow="0">
       <root>
@@ -1186,7 +1186,7 @@
             <mxPoint x="140" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tn6vXwO9ZQKd7fmYJDYD-17" value="&lt;br style=&quot;font-size: 14px;&quot;&gt;总响应：50ms" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#1A1A1A;labelBackgroundColor=none;" vertex="1" connectable="0" parent="tn6vXwO9ZQKd7fmYJDYD-16">
+        <mxCell id="tn6vXwO9ZQKd7fmYJDYD-17" value="&lt;br style=&quot;font-size: 14px&quot;&gt;总响应：35ms" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#1A1A1A;labelBackgroundColor=none;" vertex="1" connectable="0" parent="tn6vXwO9ZQKd7fmYJDYD-16">
           <mxGeometry x="0.16" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

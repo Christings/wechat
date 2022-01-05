@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T12:16:22.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="HExTUy9pC5BiuL3hGhNM" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T12:18:38.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="7cwYh5rS5lp8vxrjwpXM" version="15.9.6" type="github">
   <diagram name="apollo" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="2546" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -103,9 +103,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Idmc_XTQv_-H7MCbFBoS-66" value="上报车辆session信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Idmc_XTQv_-H7MCbFBoS-65">
+        <mxCell id="Idmc_XTQv_-H7MCbFBoS-66" value="上报车辆session信息、查订单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Idmc_XTQv_-H7MCbFBoS-65">
           <mxGeometry x="-0.0092" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Idmc_XTQv_-H7MCbFBoS-70" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="bbj0CBgUNTtJuTdAdlhA-13" target="Idmc_XTQv_-H7MCbFBoS-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Idmc_XTQv_-H7MCbFBoS-71" value="拉取运力配置信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Idmc_XTQv_-H7MCbFBoS-70">
+          <mxGeometry x="0.2492" y="-3" relative="1" as="geometry">
+            <mxPoint x="21" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bbj0CBgUNTtJuTdAdlhA-13" value="车端" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=16;align=center;fontStyle=1" parent="1" vertex="1">
@@ -216,11 +224,8 @@
         <mxCell id="Idmc_XTQv_-H7MCbFBoS-50" value="acc运营平台" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Idmc_XTQv_-H7MCbFBoS-57" value="acc运力平台" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-180" y="420" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Idmc_XTQv_-H7MCbFBoS-64" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=1;arrowSize=0.30576923076923207;fontSize=16;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="580" width="80" height="60" as="geometry" />
+        <mxCell id="Idmc_XTQv_-H7MCbFBoS-67" value="acc运力平台" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-310" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

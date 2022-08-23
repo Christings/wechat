@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T07:42:43.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="d5MK1OuZj8iwBxZRBU2A" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T07:43:14.261Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oBP4Ds0j51OYoBc72oW9" version="20.2.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="909" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,14 +62,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rT6-VUmv3mNHLw1qlS4B-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rT6-VUmv3mNHLw1qlS4B-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="rT6-VUmv3mNHLw1qlS4B-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1120" y="395" as="targetPoint" />
             <mxPoint x="1230" y="395" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1210" y="395" />
-              <mxPoint x="1210" y="395" />
+              <mxPoint x="1230" y="396" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rT6-VUmv3mNHLw1qlS4B-45" value="消息&lt;br&gt;通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rT6-VUmv3mNHLw1qlS4B-44">
+          <mxGeometry x="0.1478" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rT6-VUmv3mNHLw1qlS4B-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
